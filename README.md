@@ -73,7 +73,7 @@ This Repo contains example programs of pymongo( Database connectivity with Mongo
     
     ![image9](https://github.com/AmanSingour/Tutorial-Images/blob/master/pymongo/10.PNG)
 
-**Hurray... You have completed MongoDB Server in your Local Machine.**'
+**You have completed MongoDB Server in your Local Machine.**
 
 ### Install pymongo
 
@@ -106,4 +106,4 @@ This Repo contains example programs of pymongo( Database connectivity with Mongo
     
 4. Run createDB.py
 
-**You Have Successfully Created Database With pymongo in MongoDB.**
+**Hurray... You Have Successfully Created Database With pymongo in MongoDB.**
