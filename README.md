@@ -106,4 +106,9 @@ This Repo contains example programs of pymongo( Database connectivity with Mongo
     
 4. Run createDB.py
 
+# References
+
+    - https://api.mongodb.com/python/current/tutorial.html
+    - https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/
+
 **Hurray... You Have Successfully Created Database With pymongo in MongoDB.**

@@ -3,7 +3,7 @@ import pymongo
 
 # cONNECTING tO sERVER...
 # ! rEPLACE sTRING "mongodb://localhost:27017/" wITH cLUSTER URL fOR cLOUD sTORAGE
-client = pymongo.MongoClient("mongodb+srv://<yourusername>:<yourpassword>@cluster0-mgbud.mongodb.net/test?retryWrites=true&w=majority")
+client = pymongo.MongoClient("mongodb://localhost:27017/")
 
 # cREATING dATABASE... 
 db = client['DbName']
